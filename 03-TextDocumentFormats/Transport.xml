@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transports>
+    <Transport Type="Public Transport" Speed="Fast" Price="250zł per semester" Comfort="Low">Bus</Transport>
+    <Transport Type="Personal" Speed="Medium" Price="Free" Comfort="Low">Bike</Transport>
+    <Transport Type="Public Transport" Speed="Fast" Price="Free" Comfort="Low">Tram</Transport>
+    <Transport Type="Personal" Speed="Medium" Price="Current Gas Price" Comfort="High">Car</Transport>
+</Transports>

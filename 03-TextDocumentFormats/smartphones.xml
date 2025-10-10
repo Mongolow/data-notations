@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <smartphones>
+    <smartphone brand="Redmi" model="14 pro" releaseYear="2025">
+        <specs>
+            <screensize unit="inch">6.5</screensize>
+            <batteryCapacity unit="mha">4200</batteryCapacity>
+            <storage unit="Gb">512</storage>
+            <camera unit="MP">200</camera>
+        </specs>
+        <price currency="USD">900</price>
+    </smartphone>
     <smartphone brand="Samsung" model="Galaxy S23" releaseYear="2023">
         <specs>
             <screenSize unit="inch">6.2</screenSize>
